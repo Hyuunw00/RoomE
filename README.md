@@ -48,7 +48,7 @@
 
 <br />
 
-## 구현한 기능
+## 내가 기여한 부분
 
 <table style="min-width: 100% !important; max-width: 830px !important; border-collapse: collapse;">
   <tr>
